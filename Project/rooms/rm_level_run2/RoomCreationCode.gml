@@ -1,0 +1,1 @@
+audio_play_sound(snd_beverly_hills_cop,1,0);

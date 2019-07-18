@@ -1,0 +1,91 @@
+{
+    "id": "fda2fdb2-f5c0-4ac6-8fd3-7ba9114d459d",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_car_move_on_collision",
+    "eventList": [
+        {
+            "id": "669e651b-8308-42d5-98f0-a1ac7c54d231",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "fda2fdb2-f5c0-4ac6-8fd3-7ba9114d459d"
+        },
+        {
+            "id": "b4011f14-5b4b-42e0-87da-592015adfa88",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "fda2fdb2-f5c0-4ac6-8fd3-7ba9114d459d"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "e1917957-c856-48e9-97aa-512a77cfce23",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "598ae446-6ba9-418a-a472-00514c1d12cf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "hsp",
+            "varType": 0
+        },
+        {
+            "id": "323edef7-ee67-40b3-8438-fe5358313619",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "relative_x",
+            "varType": 0
+        },
+        {
+            "id": "547e3396-4b80-4ddd-b24e-2a7f3fe8a08b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 2,
+            "value": "spr_car_ferrari",
+            "varName": "spr",
+            "varType": 5
+        }
+    ],
+    "solid": false,
+    "spriteId": "8d75503b-6585-4f8f-8e77-9ac30cf0042e",
+    "visible": true
+}

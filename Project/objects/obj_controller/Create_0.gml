@@ -1,0 +1,10 @@
+key_left=false;
+key_right=false;
+key_jump=false;
+key_duck=false;
+key_shoot=false;
+key_up=false;
+key_throw=false;
+key_pause=false;
+key_special=false;
+key_pressed_shoot=false;

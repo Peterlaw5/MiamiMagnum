@@ -1,0 +1,131 @@
+{
+    "id": "39621d39-a819-4a63-b4ce-3e757e821c75",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_bullets",
+    "eventList": [
+        {
+            "id": "c024707d-d4f3-433b-acf4-bb0da1e34319",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "9250dce0-78f6-4d41-ae4c-884000febd50",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "39621d39-a819-4a63-b4ce-3e757e821c75"
+        },
+        {
+            "id": "bb135e43-5260-4cda-98ce-994d5f8e7ca6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "42dd7ef0-29bc-4125-9e16-3eb7b65f6c35",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "39621d39-a819-4a63-b4ce-3e757e821c75"
+        },
+        {
+            "id": "f272b08f-2e5f-4626-8bbd-d190ae306809",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "41798bfa-0d62-463d-8dc5-4640945fe8fb",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "39621d39-a819-4a63-b4ce-3e757e821c75"
+        },
+        {
+            "id": "f7b53445-81fe-4f81-99a6-9979f362872f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 40,
+            "eventtype": 7,
+            "m_owner": "39621d39-a819-4a63-b4ce-3e757e821c75"
+        },
+        {
+            "id": "a6d723ac-c116-49fd-98b2-f89a33a1facb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "39621d39-a819-4a63-b4ce-3e757e821c75"
+        },
+        {
+            "id": "bf9e1824-53e3-4e50-a148-e8321bff0473",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "39621d39-a819-4a63-b4ce-3e757e821c75"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "4c96e586-f6a8-4e8d-8272-6165c22abb79",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "damage_enemy",
+            "varType": 0
+        },
+        {
+            "id": "8e64f243-0654-4797-b496-74144566b756",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "damage_player",
+            "varType": 0
+        },
+        {
+            "id": "3055542f-7cbb-41e3-b8d6-109f2caf78a3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "bullet_speed",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
+}

@@ -1,0 +1,1 @@
+if (x < room_width*0.5) image_xscale = -1;

@@ -1,0 +1,9 @@
+left=obj_controller.key_left;
+right=obj_controller.key_right;
+jump=obj_controller.key_jump;
+duck=obj_controller.key_duck;
+shoot=obj_controller.key_shoot;
+up=obj_controller.key_up;
+throw=obj_controller.key_throw;
+pressed_shoot=obj_controller.key_pressed_shoot;
+special=obj_controller.key_special;

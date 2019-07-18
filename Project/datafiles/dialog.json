@@ -1,0 +1,98 @@
+{
+	"Cutscene_intro":[
+		" Sergente Manarmata:\n Ragazzo! La situazione\n è disperata.",
+		" Sergente Manarmata:\n  La banda di Jeff Lo Smilzo \n sta commettendo crimini\n in tutta la città.",
+		"Cercano di dimostrare la loro\n superiorità sulla\n polizia di Miami.",
+		"Fai vedere ai quei\n balordi di che\n pasta sei fatto!"
+	],
+	"Tutorial_movimento":[
+		" Sergente Manarmata:\n Che ne dici di sgranchirti\n le gambe per iniziare?",
+		" Sergente Manarmata:\n Usa ''FRECCIA DESTRA'' e\n ''SINISTRA'' per muoverti."
+	],
+		"Tutorial_salto":[
+		" Sergente Manarmata:\n Un vero poliziotto deve\n sempre sapersela cavare.",
+		" Sergente Manarmata:\n Trova il modo\n di superare quell'ostacolo.",
+		" Sergente Manarmata:\n Usa ''A'' per saltare."
+	],
+
+		"Tutorial_nemico":[
+			" Sergente Manarmata:\n Attento!\n Arrivano gli scagnozzi con\n intenzioni poco amichevoli.",
+			" Sergente Manarmata:\n Fagli capire che non stiamo\n scherzando!\n Usa ''S' per sparare."
+		],
+
+		"Tutorial_nemico_gun":[
+			" Sergente Manarmata:\n Uno scagnozzo armato!",
+			" Sergente Manarmata:\n Prendi copertura\n dietro quel bidone!",
+			" Sergente Manarmata:\n Usa ''FRECCIA GIU''\n per abbassarti."
+		],
+
+		"Tutorial_drop":[
+			" Sergente Manarmata:\n Hey!\n Quello era un\n oggetto curativo!",
+			" Sergente Manarmata:\n Ricorda:\n distruggere i bidoni\n della spazzatura rilascia\n sempre qualcosa di utile.",
+			" Sergente Manarmata:\n me l'hanno insegnato\n i barboni di Liberty City."
+		],
+
+		"Tutorial_sparo_alto":[
+			" Sergente Manarmata:\n Un altro scagnozzo!\n Usa 'FRECCIA SU''\n per mirare e sparare in alto."
+		],
+
+		"Tutorial_molotov_1":[
+			" Sergente Manarmata:\n Vediamo se è\n la tua giornata fortunata.",
+			" Sergente Manarmata:\n Nei bidoni puoi trovare\n diversi tipi di oggetto."
+		],
+
+		"Tutorial_molotov_2":[
+			" Sergente Manarmata:\n Jackpot!\n Le molotov sono utili\n contro gruppi di nemici.",
+			" Sergente Manarmata:\n Usa ''D'' per tirarne una."
+		],
+
+		"Tutorial_arma_speciale":[
+			" Sergente Manarmata:\n A quanto pare hanno\n mandato la cavalleria!",
+			" Sergente Manarmata:\n Cerca di impadronirti\n di quel mitra.",
+			" Sergente Manarmata:\n Abbassati su un'arma a terra\n per raccoglierla."
+		],
+
+		"Tutorial_bidone_coca":[
+			" Sergente Manarmata:\n Un altro bidone!\n Fai un favore all'ambiente\n e vedi cosa c'è dentro."
+			],
+
+		"Tutorial_ab_speciale":[
+			" Sergente Manarmata:\n che spreco!\n Chi ha gettato della roba\n buona nella spazzatura?",
+			" Sergente Manarmata:\n  Chi ha gettato della roba\n buona nella spazzatura?",
+			" Hai caricato la\n barra dell'invincibilità.",
+			" Premi ''W'' per attivarla.\n Dura 10 secondi."
+		],
+
+		"Livello_1":[
+			" Sergente Manarmata:\n E' il momento di ripulire\n la spiaggia da questa\n feccia criminale",
+			" Diamo inizio alle danze!"
+		],
+
+		"Livello_2_inizio":[
+			" Sergente Manarmata:\n Un gruppo di criminali\n sta causando disordini\n sulla dodicesima.",
+			" Sergente Manarmata:\n Mostriamogli l'altra faccia\n del secondo emendamento."
+		],
+
+		"Livello_2_telefonata":[
+			" Numero anonimo:\n Ascoltami bene,\n ho un messaggio\n per te poliziotto",
+			" Numero anonimo:\n Smetti di interferire\n col lavoro dei miei uomini,\n se continuerai a farlo...",
+			" Numero anonimo:\n MI FARO' PORTARE LA TUA TESTA\n SU UN PIATTO COL\n DISTINTIVO IN BOCCA,\n A MO' DI MAIALINO!!"
+		],
+
+		"Livello_corsa_inizio":[
+			" Numero anonimo:\n Penso sia arrivato\n il momento di presentarmi,\n poliziotto.",
+			" Sono Jeff Lo Smilzo!",
+			" Jeff lo Smilzo:\n E TU STAI PER MORIRE!"
+		],
+
+		"Livello_disco":[
+			" Jeff lo Smilzo:\n Devo ammetterlo poliziotto,\n sei duro a morire.",
+			" Jeff lo Smilzo:\n Ma ora hai davanti\n il NUMERO UNO.",
+			" Jeff lo Smilzo:\n NON MI FERMERETE\n NE' TE NE' TUTTA\n LA POLIZIA DI MIAMI!"
+		],
+
+		"Tutorial_sparo_basso":[
+			" Sergente Manarmata:\n Puoi colpire gli oggetti\n più in basso di te.",
+			" Sergente Manarmata:\n Mentre sei in ari\n premi giù più sparo.",
+		],
+}

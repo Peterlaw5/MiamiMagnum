@@ -1,0 +1,25 @@
+with(instance_create_layer(x+30,y,"Weapons",obj_explosion)){
+	depth=-200;	
+	thrower=obj_bomb_explosion;
+}
+with(instance_create_layer(x-30,y,"Weapons",obj_explosion)){
+	depth=-200;	
+	thrower=obj_bomb_explosion;
+}
+with(instance_create_layer(x+15,y+10,"Weapons",obj_explosion)){
+	depth=-202;	
+	thrower=obj_bomb_explosion;
+}
+with(instance_create_layer(x-15,y+10,"Weapons",obj_explosion)){
+	depth=-202;	
+	thrower=obj_bomb_explosion;
+}
+with(instance_create_layer(x,y-10,"Weapons",obj_explosion)){
+	depth=-201;	
+	thrower=obj_bomb_explosion;
+}
+with(instance_create_layer(x,y+10,"Weapons",obj_explosion)){
+	depth=-203;	
+	thrower=obj_bomb_explosion;
+}
+event_inherited();

@@ -1,0 +1,1 @@
+scr_menu_list(menu_x,menu_y);

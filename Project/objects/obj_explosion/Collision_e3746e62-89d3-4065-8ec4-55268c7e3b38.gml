@@ -1,0 +1,12 @@
+if(!other.invulnerable){
+	if(thrower==obj_barrel_explosion||thrower==obj_bomb_explosion){
+		other.hp-=other.hp_max*damage_player_percentage;
+		other.invulnerable=true;
+	}
+	if(room_get_name(room)=="rm_level_boss"){
+		if(thrower==obj_molotof_explosion){
+			other.hp-=other.hp_max*0.10;
+			other.invulnerable=true;
+		}
+	}
+}

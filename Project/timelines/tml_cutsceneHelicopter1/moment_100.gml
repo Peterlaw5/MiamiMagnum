@@ -1,0 +1,1 @@
+instance_create_layer(helicopterDummy.x+50, helicopterDummy.y, "Instances", obj_dialog_box)

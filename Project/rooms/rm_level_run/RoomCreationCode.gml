@@ -1,0 +1,1 @@
+audio_play_sound(snd_sledge_hammer,1,0);
